@@ -54,7 +54,7 @@ tauri = { version = "2.7.0", features = [
   "image-ico",
   "image-png",
 ] }
-network-interface = { version = "2.0.2", features = ["serde"] }
+network-interface = { version = "2.0.3", features = ["serde"] }
 tauri-plugin-shell = "2.3.0"
 tauri-plugin-dialog = "2.3.2"
 tauri-plugin-fs = "2.4.1"
